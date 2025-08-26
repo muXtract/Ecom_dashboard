@@ -1,6 +1,2 @@
-📊 Store-IQ: Intelligent Insights for Your Online Store
+📊 Store-IQ: Intelligent Insights for Your Online Store -
 Developed an interactive Power BI dashboard delivering a 360° view of e-commerce performance. The dashboard transforms raw sales data into actionable insights on revenue trends, state-wise contributions, customer behavior, product categories, and payment modes. With interactive filters and a clean UI, it enables businesses to quickly identify revenue drivers, optimize sales channels, and enhance decision-making.
-
-
-
-
